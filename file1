@@ -2,3 +2,9 @@ basic commands
 
 1. git add - adds file to stagging
 2. git commit - adds file to local repository
+
+supporting commands
+
+1. git status - shows status of the files with changes made and not added or comitted
+2. git log - lists all the commits
+

@@ -9,4 +9,4 @@ supporting commands
 2. git log - lists all the commits
 3. git diff - shows difference in that file, with respect to working local and stagging and stagging and local repo
 4. git show <commit id> - shows detailed commit details of that particular commit
-5. git blame - shows details of that particular commit in that particular file
+5. git blame - shows details of a particular file with commit details

@@ -10,3 +10,5 @@ supporting commands
 3. git diff - shows difference in that file, with respect to working local and stagging and stagging and local repo
 4. git show <commit id> - shows detailed commit details of that particular commit
 5. git blame - shows details of a particular file with commit details
+
+editing this file to check how pull works and how it updates 
